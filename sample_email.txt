@@ -1,0 +1,6 @@
+Hello {RECIPIENT}!
+
+You are responsible to give {SS} a present!
+
+Yours truly,
+Shpoople
